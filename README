@@ -1,0 +1,18 @@
+Introduction
+============
+
+1) This is just a compilation of c programs that I am playing with while learning the language.
+
+
+Compiling
+=========
+
+1) gcc -Wall <file.c> -o <output>
+
+2) ./<output>
+
+Ex.
+
+1) gcc -Wall hello_world.c -o hello_world
+
+2) ./hello_world
